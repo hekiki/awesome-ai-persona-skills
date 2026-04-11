@@ -36,11 +36,11 @@
 | Ilya Sutskever.skill | AGI 认知、模型哲学、对齐与前沿判断 | https://github.com/alchaincyf/ilya-sutskever-skill |
 | MrBeast.skill | 爆款逻辑、病毒传播、短视频内容创作 | https://github.com/alchaincyf/mrbeast-skill |
 | 特朗普.skill | 谈判风格、舆论话术、权力博弈思维 | https://github.com/alchaincyf/trump-skill |
-| 毛泽东.skill | 战略判断、矛盾分析、调查研究方法论 | - |
-| 毛选.skill | 实事求是、群众路线、根据地思维 | - |
-| 新青年.Skill | 蒸馏毛选全文，形成现实分析与决策技能 | - |
-| 郭德纲.skill | 语言结构、幽默表达、人情世故判断 | - |
-| 峰哥亡命天涯 Skill | 现实主义、止损思维、黑色幽默表达 | - |
+| 毛泽东.skill | 战略判断、矛盾分析、调查研究方法论 | https://github.com/wwwaapplleecu-source/mao-skill |
+| 毛选.skill | 实事求是、群众路线、根据地思维 | https://github.com/leezythu/maoxuan-skill |
+| 新青年.Skill | 蒸馏毛选全文，形成现实分析与决策技能 | https://github.com/SamadhiFire/xinqingnian-skill |
+| 郭德纲.skill | 语言结构、幽默表达、人情世故判断 | https://github.com/ByteRax/guodegang-skills |
+| 峰哥亡命天涯 Skill | 现实主义、止损思维、黑色幽默表达 |https://github.com/rottenpen/fengge-wangmingtianya-perspective|
 
 ---
 
