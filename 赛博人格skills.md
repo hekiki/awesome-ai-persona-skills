@@ -3,6 +3,10 @@
 # AI 赛博人格蒸馏技能库
 一份全网最全、持续更新的 **AI 人格蒸馏 Skill 合集**，覆盖自我蒸馏、职场关系、名人思维、情感陪伴、玄学术数、二次元角色等六大场景，全部为可直接导入使用的开源 Agent Skill。
 
+<img width="2752" height="1536" alt="Gemini_Generated_Image_gaz0fggaz0fggaz0" src="https://github.com/user-attachments/assets/76414374-e48d-447f-ace2-f8648fcb2a49" />
+
+
+
 ## 文档介绍
 本文档整理并收录当前互联网主流 **Persona Distill Skills**，所有项目均来自 GitHub 开源社区，按场景清晰分类、附带完整项目地址，方便快速查找、安装与使用。
 
