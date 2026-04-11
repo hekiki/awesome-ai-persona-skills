@@ -2,15 +2,29 @@
 
 ---
 
-## 一、职场 & 自媒体系列
+## 一、自我蒸馏 & 元工具 & 特殊技能
 | Skill 名称 | 核心功能 | 项目地址 |
 | --- | --- | --- |
-| 同事.skill | 蒸馏真实同事的沟通风格与协作习惯，生成 AI 同事 | https://github.com/titanwings/colleague-skill |
-| 老板.skill | 提炼老板决策逻辑、评审风格，解放自身生产力 | https://github.com/vogtsw/boss-skills |
 | 女娲.skill | 通用人格蒸馏工具，自动提炼任何人的心智与表达 | https://github.com/alchaincyf/nuwa-skill |
 | 自己.skill | 蒸馏自身语料，打造数字分身与第二大脑 | https://github.com/notdog1998/yourself-skill |
 | 蒸馏.skill | 人格蒸馏引擎，支持自己/亲友/他人角色构建 | https://github.com/YIKUAIBANZI/forge-skill |
 | 反蒸馏.skill | 技能文档“投毒”，核心知识自留，打工人自保 | https://github.com/leilei926524-tech/anti-distill |
+| 图鉴.skill | Skill 调度器，按意图智能推荐角色 | https://github.com/Aar0nPB/curator-skill |
+| 数字人生.skills | 从数字痕迹提炼结构化自我画像 | https://github.com/wildbyteai/digital-life |
+| 永生.skill | 多维人格蒸馏，实现数字永生 | https://github.com/agenmod/immortal-skill |
+| midas.skill | 财富模型蒸馏，挖掘个人财富信号 | https://github.com/realteamprinz/midas-skill |
+| 数字生命开源计划 | 个人知识库 → 数字分身框架 | https://github.com/weixr18/my-digital-life |
+| VibePortrait | 从对话提炼开发者风格与技术偏好 | - |
+| 户晨风.skill | 消费现实主义视角，职业/城市分析 | - |
+
+---
+
+
+## 二、职场 & 自媒体系列
+| Skill 名称 | 核心功能 | 项目地址 |
+| --- | --- | --- |
+| 同事.skill | 蒸馏真实同事的沟通风格与协作习惯，生成 AI 同事 | https://github.com/titanwings/colleague-skill |
+| 老板.skill | 提炼老板决策逻辑、评审风格，解放自身生产力 | https://github.com/vogtsw/boss-skills |
 | 博主.skill | 基于社媒语料生成可对话自媒体人格 | https://github.com/YourongZhou/chat_with_me |
 | X导师.skill | Twitter/X 运营导师，推文写作与账号诊断 | https://github.com/alchaincyf/x-mentor-skill |
 | HR.skill | 从招聘流程反向拆解 HR 筛选与决策模式 | https://github.com/Schlaflied/hr-skill |
@@ -20,7 +34,7 @@
 
 ---
 
-## 二、名人思维系列
+## 三、名人思维系列
 | Skill 名称 | 核心功能 | 项目地址 |
 | --- | --- | --- |
 | 乔布斯.skill | 产品审美、现实扭曲力场、演讲与决策风格 | https://github.com/alchaincyf/steve-jobs-skill |
@@ -44,42 +58,31 @@
 
 ---
 
-## 三、亲密关系 & 生活系列
+## 四、亲密关系 & 生活系列
 | Skill 名称 | 核心功能 | 项目地址 |
 | --- | --- | --- |
 | 前任.skill | 蒸馏前任语气与共同记忆，模拟对话 | https://github.com/therealXiaomanChu/ex-skill |
-| 父母.skill | 提炼亲人语气、习惯与家庭记忆 | - |
-| MamaSkill | 基于语音与聊天构建家人陪伴 AI | - |
-| 兄弟.skill | 蒸馏好友说话风格、口头禅与社交模式 | - |
-| 暗恋对象.skill | 从聊天记录模拟对话风格，用于情感练习 | - |
-| 恋爱训练营.skill | 模拟心动对象，练习表达、邀约与沟通 | - |
-| Reunion Skill | 基于数字遗物构建已故亲友纪念型 AI | - |
+| 父母.skill | 提炼亲人语气、习惯与家庭记忆 | https://github.com/xiaoheizi8/parents-skills |
+| MamaSkill | 基于语音与聊天构建家人陪伴 AI | https://github.com/jiangziyan-693/MamaSkill |
+| 兄弟.skill | 蒸馏好友说话风格、口头禅与社交模式 | https://github.com/realteamprinz/brother-skill |
+| 暗恋对象.skill | 从聊天记录模拟对话风格，用于情感练习 | https://github.com/xiaoheizi8/crush-skills |
+| 恋爱训练营.skill | 模拟心动对象，练习表达、邀约与沟通 | https://github.com/TammyTan516/relationship-training-skill |
+| Reunion Skill | 基于数字遗物构建已故亲友纪念型 AI | https://github.com/yangdongchen66-boop/reunion-skill |
 
 ---
 
-## 四、玄学 & 术数系列
+## 五、玄学 & 术数系列
 | Skill 名称 | 核心功能 | 项目地址 |
 | --- | --- | --- |
 | 赛博算命.skill | 八字排盘、四柱命理、运势分析 | https://github.com/jinchenma94/bazi-skill |
 | 月老·姻缘测算.skill | 术数合婚、桃花分析、姻缘测算 | https://github.com/Ming-H/yinyuan-skills |
 | 奇门遁甲、紫微斗数.skill | 低幻觉排盘，传统术数 AI 分析 | https://github.com/FANzR-arch/Numerologist_skills |
 | 大师.skill | 汉传佛教祖师大德风格讲解与对话 | https://github.com/xr843/Master-skill |
-| 金刚经.skill | 基于金刚经的讲解、对话与解读框架 | - |
+| 金刚经.skill | 基于金刚经的讲解、对话与解读框架 | https://github.com/dull-bird/diamond-sutra-skill |
 
 ---
 
-## 五、元工具 & 特殊技能
-| Skill 名称 | 核心功能 | 项目地址 |
-| --- | --- | --- |
-| 图鉴.skill | Skill 调度器，按意图智能推荐角色 | - |
-| 数字人生.skills | 从数字痕迹提炼结构化自我画像 | - |
-| 永生.skill | 多维人格蒸馏，实现数字永生 | - |
-| midas.skill | 财富模型蒸馏，挖掘个人财富信号 | - |
-| 数字生命开源计划 | 个人知识库 → 数字分身框架 | - |
-| VibePortrait | 从对话提炼开发者风格与技术偏好 | - |
-| 户晨风.skill | 消费现实主义视角，职业/城市分析 | - |
 
----
 
 ### 说明
 - 无地址项为原 awesome 仓库收录但未附外链，可 GitHub 直接搜 Skill 名称查找
