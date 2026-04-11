@@ -23,6 +23,7 @@
 
 # 怎么赛博蒸馏skill?
 
+[文档链接：赛博蒸馏skill实操指南pdf](https://github.com/momozi1996/momozi-ai-book/blob/main/%E8%B5%9B%E5%8D%9A%E8%92%B8%E9%A6%8FSkill%E5%AE%9E%E6%93%8D%E6%8C%87%E5%8D%97.pdf)
 
 # 完整 Skill 清单文档
 
