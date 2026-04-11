@@ -1,5 +1,24 @@
 # AI 赛博人格蒸馏技能（Skill）完整汇总表
 
+# AI 赛博人格蒸馏技能库
+一份全网最全、持续更新的 **AI 人格蒸馏 Skill 合集**，覆盖自我蒸馏、职场关系、名人思维、情感陪伴、玄学术数、二次元角色等六大场景，全部为可直接导入使用的开源 Agent Skill。
+
+## 文档介绍
+本文档整理并收录当前互联网主流 **Persona Distill Skills**，所有项目均来自 GitHub 开源社区，按场景清晰分类、附带完整项目地址，方便快速查找、安装与使用。
+
+你可以用它：
+- 一键复刻名人思维框架
+- 蒸馏自己/亲友/同事的数字人格
+- 搭建情感陪伴、回忆疗愈AI
+- 做职业规划、升学咨询、内容创作助手
+- 体验二次元角色、玄学测算等特色Skill
+
+所有技能遵循 **AgentSkills 规范**，支持 Claude Code / Cursor / OpenClaw 等主流平台直接使用。
+
+---
+
+# 完整 Skill 清单文档
+
 ---
 
 ## 一、自我蒸馏 & 元工具 & 特殊技能
@@ -91,7 +110,6 @@
 | lolimom.skill | 你喜欢的二次元软萌妈妈气质，蒸馏成一个会哄你、会照顾你、会记住你习惯的 AI Skill。 |https://github.com/yuuiwa1551/lolimom.skill|
 | vtb.skill · 虚拟主播.skill |把喜欢过、追过、想认真留下来的虚拟主播，整理成一个能安装、能维护、还能继续补料的 .skill | https://github.com/ly-xxx/vtb.skill |
 | 陈泽.skill |基于斗鱼/抖音主播 陈泽 真实语料蒸馏，涵盖身份认知、价值观、表达风格、幽默模式、互动规则五大维度。| https://github.com/Xiaooooo434680/chenze-skill |
-
 
 ---
 
