@@ -2,9 +2,10 @@
 
 # AI 赛博人格蒸馏技能库
 一份全网最全、持续更新的 **AI 人格蒸馏 Skill 合集**，覆盖7大场景，全部为可直接导入使用的开源 Agent Skill：
-1. **自我蒸馏** ； 2. **职场关系** ； 3. **名人思维** 
-4. **情感陪伴** ； 5. **玄学术数** ； 6. **二次元角色** 
-7. **SBTI人格测试**
+1. **自我蒸馏**  ；  **职场关系**
+2.  **名人思维** ；  **情感陪伴** 
+3. **玄学术数**  ；  **二次元角色**
+4. **SBTI人格测试**
 
 <img width="1000" height="558" alt="Gemini_Generated_Image_gaz0fggaz0fggaz0_副本" src="https://github.com/user-attachments/assets/a5ecb800-3123-4ff2-bd24-f12b770d5ada" />
 
