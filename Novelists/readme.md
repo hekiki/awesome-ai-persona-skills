@@ -5,24 +5,25 @@
 
 <p align="center">
 「你想复活的下一个作家，何必是当代」
-蒸馏小说家灵魂 · 复刻文风基因 · 用 AI 复活你最爱的作家
-用AI蒸馏人类作家的创作思维，构建可运行的写作Agent。
+「蒸馏小说家灵魂 · 复刻文风基因 · 用 AI 复活你最爱的作家」
 </p>
 
 <p align="center">
-<code>License MIT</code>
-<code>nuwa-skill Compatible</code>
-<code>StepClaw Ready</code>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT"></a>
+<a href="https://github.com/alchaincyf/nuwa-skill"><img src="https://img.shields.io/badge/nuwa--skill-Compatible-purple.svg" alt="nuwa-skill Compatible"></a>
+<a href="https://www.stepfun.ai/"><img src="https://img.shields.io/badge/StepClaw-Ready-green.svg" alt="StepClaw Ready"></a>
 </p>
 
+
 <p align="center">
-用女娲蒸馏顶级作家的灵魂，让莫言、张爱玲、余华、刘慈欣都给你当笔杆子。
+用 女娲skill 蒸馏顶级作家的灵魂，让刘慈欣、莫言、张爱玲、余华、李碧华、琼瑶、当年明月都给你当笔杆子。
 </p>
 
 <p align="center">
 <a href="https://github.com/alchaincyf/nuwa-skill">nuwa.skill</a> 证明了蒸馏一个人的思维是可行的。<br>
-那何必只蒸馏同事？去蒸馏莫言、余华、张爱玲、刘慈欣。<br>
-只需输入一个名字，自动完成调研、风格拆解、模型蒸馏全流程。
+✨ 那何必只蒸馏同事？去蒸馏莫言、余华、张爱玲、刘慈欣。<br>
+✨ 我已经帮你完成了作家蒸馏全流程，持续蒸馏中。。 
+ ❤️ star+fork  ❤️ 支持一下这个仓库吧～。 
 </p>
 
 <p align="center">
