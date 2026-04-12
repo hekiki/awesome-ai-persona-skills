@@ -22,22 +22,28 @@
 ---
 
 # 怎么赛博蒸馏skill?
+### 某博主的指南
 
 [文档链接：赛博蒸馏skill实操指南pdf](https://github.com/momozi1996/momozi-ai-book/blob/main/%E8%B5%9B%E5%8D%9A%E8%92%B8%E9%A6%8FSkill%E5%AE%9E%E6%93%8D%E6%8C%87%E5%8D%97.pdf)
 
-我自己的经验
+### 我自己的经验
 
-1、安装女娲skill： 
+1、安装女娲skill：
+```bash
 npx skills add alchaincyf/nuwa-skill
+```
 
 2、利用女娲skill蒸馏其他人物
+```bash
 非常好，用nuwa-skill蒸馏另一个作家-莫言， 我希望你能先查他的所有资料和书写风格尤其是小说的书写， 构造一个最像他的。
-
+```
 3、等待openclaw完成任务。（我自己用的阶跃AI的stepclaw）
- stepclaw也会一步一步执行，执行完成以后会告诉用户。
+ stepclaw也会一步一步执行，执行完成以后会向用户反馈结果。。
+ 
 4、保存压缩包到本地
-把这个 莫言Skill 相关的文件，保存到我的电脑本地，下载的目录里吧。 （检查所有的文件不要出错，也不要为空）
-
+```bash
+把这个 莫言Skill 相关的文件，做成文件夹保存到我的电脑本地的下载的目录里吧。 （检查所有的文件不要出错，也不要为空）
+```
 
 # 完整 Skill 清单文档
 
