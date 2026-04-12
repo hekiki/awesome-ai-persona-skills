@@ -77,11 +77,59 @@
 > 持续更新中：南派三叔 / 天下霸唱 / 唐家三少  / 天蚕土豆 / 墨香铜臭
 
 ---
-## 🚀 快速开始：直接在这个仓库的skill目录下安装
+## 🚀 快速开始
 
-✨ 我已经帮你完成了作家蒸馏全流程，持续蒸馏中。。 
- ❤️ star+fork  ❤️ 支持一下这个仓库吧～。 
- 你还想蒸馏谁？ （留言+贡献吧🎉）
+🦈 创始人，给你三种一键安装方式：
+
+## 🚀 快速开始：一键安装所有Skill
+
+### 方式一：使用安装脚本（推荐）
+
+```bash
+curl -sL https://raw.githubusercontent.com/momozi1996/momozi-ai-book/main/Novelists/install.sh | bash
+```
+### 方式二：手动逐个安装
+```bash
+# 安装刘慈欣
+npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
+# 安装余华
+npx skills add momozi1996/momozi-ai-book/Novelists/yuhua-skill
+
+# ... 其他作家
+```
+
+### 方式三：批量安装
+```bash
+git clone https://github.com/momozi1996/momozi-ai-book.git
+cp -r momozi-ai-book/Novelists/*/ ~/.stepclaw/skills/
+```
+
+---
+
+## 方案二：创建 install.sh 脚本
+
+我已经创建了 `install-novelists.sh` 脚本，你需要把它上传到仓库的 `Novelists/` 目录下：
+
+```bash
+# 脚本功能：
+# 1. 自动下载仓库
+# 2. 安装所有8个Skill到 ~/.stepclaw/skills/
+# 3. 验证完整性
+# 4. 显示安装统计
+脚本已保存到：/Users/momozi1996/.stepclaw/workspace/install-novelists.sh
+```
+方案三：OpenClaw 原生支持
+如果OpenClaw支持从GitHub直接安装，可以用：
+
+bash
+
+复制代码
+# 安装整个Novelists目录
+npx skills add momozi1996/momozi-ai-book/Novelists
+
+# 或安装单个
+npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
+
 
 ## 🤔指南：我是怎么蒸馏作家Skill的？
 
