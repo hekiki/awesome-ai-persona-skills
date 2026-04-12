@@ -63,6 +63,8 @@
 
 ## 作家Skill目录
 
+### 一、作家&小说家
+
 | 　　　作家　　　 | 体裁 | 写作特征 | Skill链接 |触发关键词 |
 |-----------|------|----------|-----------|-----------|
 |   🌟**刘慈欣**   | 科幻小说 | 硬科幻、宏大叙事、科学概念→社会冲突、黑暗森林法则、降维打击。擅长：硬科幻设定、宏大叙事结构、科学概念具象化、文明冲突。 | [liucixin-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/liucixin-skill/SKILL.md) |触发词：「刘慈欣视角」「像刘慈欣那样写」「黑暗森林」「降维打击」。|
@@ -72,6 +74,13 @@
 |    🌟**席慕容**  | 诗歌/散文 | 抒情唯美、乡愁主题、诗画交融、生命时刻。擅长：爱情诗、乡愁诗、自然意象、诗画结合、青春记忆。 | [ximurong-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/ximurong-skill/SKILL.md) |触发词：「席慕容视角」「像席慕容那样写」「乡愁」「开花的树」|
 |    🌟**琼瑶**    | 小说/电视剧 | 言情至上、唯美浪漫、戏剧冲突、经典对白。擅长：爱情小说、电视剧改编、唯美对白、情感冲突、女性视角。 | [qiongyao-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/qiongyao-skill/SKILL.md) |触发词：「琼瑶视角」「像琼瑶那样写」「言情小说」「山无棱天地合」。|
 |    🌟**李碧华**  |爱情&奇幻小说|奇情叙事、冷艳诡谲、历史重构、香港都市传奇。擅长：爱情与恐怖交织、历史重构、女性执念、宿命轮回、影视化叙事。| [libihua-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/libaihua-skill/SKILL.md)| 触发词：「李碧华视角」「像李碧华那样写」「奇情」「冷艳」「霸王别姬」。 |
+
+
+> 持续更新中：三毛 / 林清玄 / 冰心/ 金庸...
+
+### 二、网文小说家
+| 　　　作家　　　 | 体裁 | 写作特征 | Skill链接 |触发关键词 |
+|-----------|------|----------|-----------|-----------|
 |    🌟**当年明月** |历史小说|当年明月历史通俗写作思维——幽默风趣、现代视角、心灵历史、权力与人性。 擅长：历史通俗写作、幽默叙事、人物心理分析、权力斗争描写、现代语言解构历史。|[dangnianmingyue-skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/dangnianmingyue-skill/SKILL.md)|触发词：「当年明月视角」「像当年明月那样写」「明朝那些事儿」「历史通俗化」。|
 
 > 持续更新中：南派三叔 / 天下霸唱 / 唐家三少  / 天蚕土豆 / 墨香铜臭
