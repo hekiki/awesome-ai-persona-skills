@@ -45,6 +45,9 @@
 npx skills add alchaincyf/nuwa-skill
 ```
 
+致谢
+- [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
+
 ### 2. 利用女娲Skill蒸馏人物
 
 ```bash
@@ -264,7 +267,7 @@ npx skills add alchaincyf/nuwa-skill
 
 - [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
 - [OpenClaw](https://github.com/openclaw/openclaw) - AI Agent运行环境
-- 六位作家 - 创作灵感来源
+- 8+位作家 - 创作灵感来源
 
 ---
 
