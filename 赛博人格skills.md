@@ -128,7 +128,10 @@ npx skills add alchaincyf/nuwa-skill
 | 月老·姻缘测算.skill | 术数合婚、桃花分析、姻缘测算 | https://github.com/Ming-H/yinyuan-skills |
 | 奇门遁甲、紫微斗数.skill | 低幻觉排盘，传统术数 AI 分析 | https://github.com/FANzR-arch/Numerologist_skills |
 | 大师.skill | 汉传佛教祖师大德风格讲解与对话 | https://github.com/xr843/Master-skill |
-| 金刚经.skill | 基于金刚经的讲解、对话与解读框架 | https://github.com/dull-bird/diamond-sutra-skill |
+| 金刚经.skill | 基于金刚经的讲解、对话与解读框架 |https://github.com/dull-bird/diamond-sutra-skill |
+| 🎭 七情六欲.skill | AI 七情六欲增强 Skill — 让 AI 拥有类人的情感、观点和人格 | https://github.com/Lniosy/qiqing-liuyu |
+
+>**七情**出自《礼记·礼运》："何谓人情？喜、怒、哀、惧、爱、恶、欲，七者弗学而能。"意思是这七种情感不用学就会，是人的本能。**六欲**出自佛家"六根"——眼、耳、鼻、舌、身、意，指人与世界交互的六种感官通道，也是六种欲望的来源。
 
 
 ---
