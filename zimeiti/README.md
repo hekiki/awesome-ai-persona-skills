@@ -106,7 +106,7 @@
 ---
 
 ### 三、作家文学视角（姊妹仓库）
-> 以下为同系列 Skill，详见 [awesome-ai-book/Novelists/](https://github.com/momozi1996/momozi-ai-book/tree/main/Novelists)
+> 以下为同系列 Skill，详见 [awesome-ai-book/Novelists/](https://github.com/momozi1996/awesome-ai-persona-skills/tree/main/Novelists)
 
 | 作家 | 风格特征 |
 |------|---------|
@@ -136,10 +136,10 @@
 
 ```bash
 # 国内镜像（网速慢选这个）
-curl -sL https://ghfast.top/https://raw.githubusercontent.com/momozi1996/momozi-ai-book/main/Novelists/install.sh | bash
+curl -sL https://ghfast.top/https://raw.githubusercontent.com/momozi1996/awesome-ai-persona-skills/main/Novelists/install.sh | bash
 
 # 或直接 GitHub 源
-curl -sL https://raw.githubusercontent.com/momozi1996/momozi-ai-book/main/Novelists/install.sh | bash
+curl -sL https://raw.githubusercontent.com/momozi1996/awesome-ai-persona-skills/main/Novelists/install.sh | bash
 ```
 
 ### ✅ 手动逐个安装
@@ -151,16 +151,16 @@ npx skills add momozi1996/awesome-ai-persona-skills/zimeiti/shuzishengmingkazike
 npx skills add momozi1996/awesome-ai-persona-skills/zimeiti/saiwenqiaoyi-skill
 
 # ← 作家文学视角（姊妹仓库）
-npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
-npx skills add momozi1996/momozi-ai-book/Novelists/yuhua-skill
+npx skills add momozi1996/awesome-ai-persona-skills/Novelists/liucixin-skill
+npx skills add momozi1996/awesome-ai-persona-skills/Novelists/yuhua-skill
 # ... 更多
 ```
 
 ### 📦 批量离线安装
 
 ```bash
-git clone https://github.com/momozi1996/momozi-ai-book.git
-cp -r momozi-ai-book/Novelists/*/ ~/.stepclaw/skills/
+git clone https://github.com/momozi1996/awesome-ai-persona-skills.git
+cp -r awesome-ai-persona-skills/Novelists/*/ ~/.stepclaw/skills/
 ```
 
 ---
@@ -174,7 +174,7 @@ cp -r momozi-ai-book/Novelists/*/ ~/.stepclaw/skills/
 npx skills add momozi1996/awesome-ai-persona-skills/zimeiti
 
 # 安装整个 Novelists 目录
-npx skills add momozi1996/momozi-ai-book/Novelists
+npx skills add momozi1996/awesome-ai-persona-skills/Novelists
 
 # 或单个安装
 npx skills add momozi1996/awesome-ai-persona-skills/zimeiti/kazike-skill
