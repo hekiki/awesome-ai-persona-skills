@@ -1,4 +1,3 @@
-
 ---
 name: tangjiasanshao-perspective
 description: |
@@ -10,7 +9,6 @@ type: skill
 author: 女娲 · Skill造人术
 created:  2026-05-03
 ---
-
 
 # 唐家三少 · 网文创作思维
 
