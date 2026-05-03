@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> awesome-ai-persona-skills </h1>
-<h1 align="center"> 全网最全的、持续更新的、最火爆的 100+ 人格 蒸馏skills 合集｜名人/古籍/二次元/职场/情感全品类</h1>
+<h3 align="center"> 全网最全的、持续更新的、最火爆的 100+ 人格 蒸馏skills 合集｜名人/古籍/二次元/职场/情感全品类</h3>
 
 
 <p align="center">
