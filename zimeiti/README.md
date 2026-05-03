@@ -14,9 +14,7 @@
 
 
 <p align="center">
-<a href="https://github.com/alchaincyf/nuwa-skill">nuwa.skill</a> 证明了蒸馏一个人的思维是可行的。<br>
-我已经帮你完成了蒸馏全流程，持续蒸馏中。。 <br>
- ❤️ star+fork  ❤️ 支持我们～你还想蒸馏谁？ （留言+贡献吧🎉）<br>
+ ❤️ star+fork ❤️ 支持我们吧～🎉 <br>
 </p>
 
 
