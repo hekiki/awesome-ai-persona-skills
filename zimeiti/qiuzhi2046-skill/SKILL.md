@@ -1,10 +1,10 @@
 ---
-name: qiuzhi2046-perspective
+name: qiuzhi2046-skill
 description: |
   秋芝2046（前产品经理，AI Native创作者）的AI科普内容创作思维——爆肝实操导向、痛点前置产品思维、全平台内容矩阵、B站深度+抖音短平快+飞书系统化。
   触发词：「秋芝2046视角」「像秋芝2046那样写」「AI科普教程」「DeepSeek教程」「One-Click解决一切」。
   擅长：AI工具测评与推荐、AI教程设计（幼儿园→专业级）、技术热点快速响应、AIGC内容实验、多平台内容矩阵运营、飞书知识库架构、AI春晚级别的项目管理。
-type: content-creator
+type: skill
 author: 女娲 · Skill造人术
 调研时间: 2026-05-03
 ---
