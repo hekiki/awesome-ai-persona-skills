@@ -30,21 +30,21 @@
 我们用「女娲蒸馏」技术，拆解自媒体大V的：
 叙事 DNA、语感与节奏、人物塑造逻辑、世界观偏好、意象与象征体系、对话与情绪表达方式
 
-基于 nuwa-skill 打造的作家风格复刻库，把顶级小说家的叙事节奏、语感、视角与世界观，炼成可直接调用的写作 Skill。
+基于 nuwa-skill 打，把自媒体大V们的叙事节奏、语感、视角与世界观，炼成可直接调用的 Skill。
 致谢
 - [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
 
 # 简介
 
-这个仓库收录了 8+ 位华语作家的创作思维Skill，通过「女娲造人术」（nuwa-skill）蒸馏而成。
-每个Skill都包含了作家的核心心智模型、表达DNA、决策启发式和经典作品分析。
+这个仓库收录了 10+ 位 自媒体大V的创作思维Skill，通过「女娲造人术」（nuwa-skill）蒸馏而成。
+每个Skill都包含了他们的核心心智模型、表达DNA、决策启发式和经典作品分析。
 
 #  文件结构
 
-###  每个作家Skill文件夹包含：
+###  每个Skill文件夹包含：
 
 ```
-作家名-perspective/
+大V名-perspective/
 ├── SKILL.md                  # 主Skill文件（核心心智模型）
 └── references/
     └── research/
@@ -57,8 +57,8 @@
 ```
 
 
-###  每个作家的SKILL.md都包含：
-- 身份卡：作家简介和创作信条<br>
+###  每个大V的SKILL.md都包含：
+- 身份卡：大v简介和创作信条<br>
 - 心智模型：5个核心思维框架<br>
 - 决策启发式：创作决策规则<br>
 - 表达DNA：语言风格和经典句式<br>
@@ -68,9 +68,9 @@
 ---
 ### 🧪使用场景： 
 你可以用这些Skill来：
-- 模仿特定作家的写作风格
+- 模仿特定大V的写作风格
 - 获取创作灵感和构思框架
-- 学习不同作家的叙事技巧
+- 学习不同大V的叙事技巧
 - 构建自己的写作Agent
  ---
 
@@ -118,7 +118,7 @@ npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
 # 安装余华
 npx skills add momozi1996/momozi-ai-book/Novelists/yuhua-skill
 
-# ... 其他作家
+# ... 其他大V
 ```
 
 ##### 方式三：批量安装
@@ -138,7 +138,7 @@ npx skills add momozi1996/momozi-ai-book/Novelists
 npx skills add momozi1996/momozi-ai-book/Novelists/liucixin-skill
 ```
 
-# 🤔指南：我是怎么蒸馏作家Skill的？
+# 🤔指南：我是怎么蒸馏大VSkill的？
 
 ### 1. 安装女娲Skill
 
@@ -181,8 +181,8 @@ npx skills add alchaincyf/nuwa-skill
 
 ### 1. 直接阅读SKILL.md
 
-每个作家的SKILL.md都包含：
-- 身份卡：作家简介和创作信条
+每个大V的SKILL.md都包含：
+- 身份卡：大V简介和创作信条
 - 心智模型：5个核心思维框架
 - 决策启发式：创作决策规则
 - 表达DNA：语言风格和经典句式
@@ -191,7 +191,7 @@ npx skills add alchaincyf/nuwa-skill
 
 ### 2. 作为AI Prompt使用
 
-将SKILL.md的内容作为system prompt，让AI以特定作家的视角回答问题。
+将SKILL.md的内容作为system prompt，让AI以特定大V的视角回答问题。
 
 ### 3. 安装到OpenClaw
 
@@ -204,7 +204,7 @@ npx skills add alchaincyf/nuwa-skill
 > 「我不是在写爱情诗，我是在写生命里的那些时刻。」——席慕容
 > 「我写的是爱情，我相信爱情。」——琼瑶
 > 「我的小说里，除了《金锁记》里的曹七巧，全是些不彻底的人物。」——张爱玲
-每个作家都有独特的创作DNA。这个仓库的目标，就是用AI的方式，保存和传承这些珍贵的创作思维。
+每个大V都有独特的创作DNA。这个仓库的目标，就是用AI的方式，保存和传承这些珍贵的创作思维。
 
 ---
 
@@ -212,7 +212,7 @@ npx skills add alchaincyf/nuwa-skill
 
 - [女娲造人术](https://github.com/alchaincyf/nuwa-skill) - Skill蒸馏方法论
 - [OpenClaw](https://github.com/openclaw/openclaw) - AI Agent运行环境
--各位经典作家 - 文字灵感与创作源泉
+-各位经典大V - 文字灵感与创作源泉
 
 ---
 
