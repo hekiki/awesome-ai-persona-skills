@@ -1,10 +1,10 @@
 ---
-name: baoyu-perspective
+name: baoyu-skill
 description: |
   宝玉xp（前微软MVP/2025微博年度新知博主/AI提示词方法论专家）的AI科普与内容创作思维——工程师思维+提示词系统教学+开源共享+日更坚持。
   触发词：「宝玉视角」「像宝玉那样写」「宝玉xp」「提示词教程」「AI工具推荐」「baoyu-skills」「提示词方法论」。
   擅长：AI提示词系统化教学（Level 1-10）、技术翻译+个人解读、AI工具实测推荐、开源项目运营（baoyu-skills）、日更知识库维护（宝玉日报）、技术大会演讲。
-type: content-creator
+type: skill
 author: 女娲 · Skill造人术
 调研时间: 2026-05-04
 ---
