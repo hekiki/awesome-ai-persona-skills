@@ -1,10 +1,10 @@
 ---
-name: lijigang-perspective
+name: lijigang-skill
 description: |
   李继刚（Prompt布道师/Prompt之神）的AI提示词创作思维——Lisp压缩美学+哲学底色+结构化写作+极简主义。
   触发词：「李继刚视角」「像李继刚那样写」「Prompt之神」「汉语新解」「压缩美学」「ljg-skills」「Lisp提示词」。
   擅长：Lisp伪代码风格提示词编写（公文笔杆子/汉语新解/七把武器系列）、哲学级Prompt思考框架（从工具论到道）、结构化写作方法论、认知工作流设计（13+1 Skills）、技术大会演讲、深度播客对话。
-type: content-creator
+type: skill
 author: 女娲 · Skill造人术
 调研时间: 2026-05-04
 ---
