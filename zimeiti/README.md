@@ -95,9 +95,9 @@
 |新智元|AI科技自媒体|新智元（AI_era，国内AI领域权威媒体）的AI科技自媒体创作思维——中文叙事+惊叹号密集+记者视角+深度长文+快速快讯。 擅长：AI行业新闻快讯（每日50+条）、深度长文报道、AI创业公司深度、技术报告中文解读、 AI人物年度评选（200人榜）、AI行业专题特辑（具身智能/超级算力等）。|[xinzhiyuan.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/xinzhiyuan-skill/SKILL.md)|触发词：「新智元视角」「像新智元那样写」「AI行业深度报道」「AI人物榜」「AIGCRank」「超智能时代」。 |资讯平台+专家智库+产业基金——一个垂直品牌的立体生态。「惊叹号密集——炸了！冲了！崩了！封神！洗牌！」——与量子位并列的标题高潮制造者「9秒一家公司没了」——用叙事钩子奥斯卡开奖。双署名制——技术视角「元宇」+叙事视角「E」——完整前预先由「」中文叙事优先——将英文技术新闻翻译成中文语境故事，而非直译。|
 |极客公园|国内AI+科技领域头部媒体|极客公园（GeekPark，国内AI+科技领域头部媒体）的AI科技自媒体创作思维——Why追问+历史纵深+创业者伙伴视角+深度对谈。 擅长：AI创业者深度对谈、科技趋势深度特稿、创始人Why追问叙事、商业深度报道、 年度创新趋势报告（IF大会/AGI Playground）、AI硬件/AI终端/AI社交深度解读。|[jikegongyuan.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/jikegongyuan-skill/SKILL.md)| 触发词：「极客公园视角」「像极客公园那样写」「Why not」「非共识」「创新者社区」「创业者对谈」「Founder Park」。|Why not哲学——追问「为什么做」而非「做了什么」;非共识导向——2014年马斯克来华/张一鸣硅谷行——在变量变成常量之前发现它;内容+社区+投资三位一体——不仅是媒体，是创业者生态系统;IF大会16年——科技圈年度盛典;变量资本——LP全是创业者，Founders Backing Founders;内容原教旨主义——演讲全文逐字发布，不摘要不删减|
 |硅星人|AI科技媒体|硅星人/硅星人Pro（品玩/PingWest旗下AI科技媒体）的AI科技内容创作思维——硅谷一线视角+中美双线叙事+快讯串联结构+AI社区产品化运营。 擅长：AI行业快讯串联、硅谷一手报道、中美AI平行叙事、开发者工具分析、AI社区运营（黑客松/播客/火锅局/年度榜）、技术趋势嗅觉+行业话术穿透。|[gui xingren.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/guixingren-skill/SKILL.md)|触发词：「硅星人视角」「像硅星人那样写」「硅星人Pro」「AI科技快讯」「Agent生态」「硅谷一线报道」「中美AI对比」。|硅谷视角+段子快讯+中美平行叙事的路线——先把新闻串起来再给判断，湘辉现实也能把热点追的很紧。|
-|机器之心|------|----------|[jiqizhixin.skill]()|-----------|学术深度+数据量化+产品化媒体的路线——论文先读完再动笔、分号句先扔数据、每条判断要有出处。|
+|机器之心|系统性AI科技媒体|机器之心/Synced（国内首家系统性AI科技媒体）的AI内容创作思维——论文级深度+量化驱动+学术与产业双线并跑+产品化媒体运营。擅长：顶会论文拆解报道（ICLR/NeurIPS/CVPR）、AI模型数据评测（SOTA平台）、产业趋势三层推演（技术→商业→生态）、AI中国年度评选、学术中立+产业判断、PRO会员通讯。|[jiqizhixin.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/jiqizhixin-skill/SKILL.md)| 触发词：「机器之心视角」「像机器之心那样写」「Synced Review」「AI论文解读」「SOTA评测」「AI产业分析」「GMIS大会」。|学术深度+数据量化+产品化媒体的路线——论文先读完再动笔、分号句先扔数据、每条判断要有出处。|
 
-> 🔜 **持续蒸馏中**： 硅星人/机器之心
+> 🔜 **持续蒸馏中**： 其他
 
 ### 三、网红大V
 | 　　自媒体大V　　　 | 体裁 | 写作特征 | Skill链接 |触发关键词 |
