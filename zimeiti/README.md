@@ -27,6 +27,9 @@
 
 我们用「nuwa-skill」技术，拆解自媒体大V的：叙事 DNA、语感与节奏、人物塑造逻辑、世界观偏好、意象与象征体系、对话与情绪表达方式，把自媒体大V们的叙事节奏、语感、视角与世界观，炼成可直接调用的 Skill。
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_yhppl2yhppl2yhpp" src="https://github.com/user-attachments/assets/fbda1fbe-0dc7-46ef-8929-1794da99e3cd" />
+
+
 
 # 简介
 
