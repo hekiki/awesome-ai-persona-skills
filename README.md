@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-<a href="#全网100+人格skill合集">人格库</a> · <a href="#独家原创作家skill">作家库</a> · <a href="#快速开始">快速使用</a> · <a href="#工作原理">蒸馏原理</a>
+<a href="### 🔥 核心一：全网 100+ AI 人格 Skill 合集【全网最全】🎭 ">人格skill库</a> ·<a href="### 📚 核心二：独家自研 · 永乐大典 Skill ">永乐大典skill</a> ·<a href="### 📚 核心三：独家自研 · 手工蒸馏 作家小说家 Skill ">作家skill库</a> · <a href="### 📚 核心四：独家自研 · 自媒体大V- Skill">自媒体大V的skill库</a> · <a href="# 关于作者">关于作者</a> 
 </p>
 
 ---
@@ -56,7 +56,7 @@ awesome-ai-persona-skills/
 
 ---
 
-## ✨ 仓库两大核心定位
+## ✨ 仓库核心内容
 ### 🔥 核心一：全网 100+ AI 人格 Skill 合集【全网最全】🎭 
 👉 [赛博人格skills.md](./赛博人格skills.md)
 
