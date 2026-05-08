@@ -120,7 +120,7 @@ awesome-ai-persona-skills/
 ✅ 只存真话、只讲规律、只还原事实；<br>
 
 
-[天涯20神多智能体.skill]([https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/README.md](https://github.com/momozi1996/tianya-skills))
+[天涯20神多智能体.skill](https://github.com/momozi1996/tianya-skills)
 
 <img width="1448" height="1086" alt="ChatGPT Image 2026年5月6日 22_46_50" src="https://github.com/user-attachments/assets/ada4dbcd-fd53-46c1-a88c-519e01e905c6" />
 
