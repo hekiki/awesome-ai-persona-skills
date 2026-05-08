@@ -24,6 +24,7 @@
  2、 【本人独创】永乐大典 .skill <br>
  3、 【本人独创】顶级作家 . skill <br>
  4、 【本人独创】自媒体大V . skill <br>
+ 5、 【本人独创】多agent智囊团-天涯20大神 . skill <br>
 </p>
 
 <p align="center">
@@ -108,6 +109,20 @@ awesome-ai-persona-skills/
 [自媒体大V.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/README.md)
 
 <img width="2816" height="1536" alt="Gemini_Generated_Image_yhppl2yhppl2yhpp" src="https://github.com/user-attachments/assets/c041cb12-9cb9-4531-a4a3-e283e72c45a4" />
+
+---
+### 📚 核心五：独家自研 · 多agent智囊团-天涯20大神
+
+🤔 基于ClawTeam多Agent架构，20位天涯传奇大神为你并行决策
+💡 一个人思考，是智慧；二十个人思考，是智囊团。
+📖 回归中华文化本有的深度、广度与真相 📜..
+🚫 不迎合流量，不制造情绪，不随世俗裹挟；
+✅ 只存真话、只讲规律、只还原事实；
+
+
+[天涯20神多智能体.skill]([https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/README.md](https://github.com/momozi1996/tianya-skills))
+
+<img width="1448" height="1086" alt="ChatGPT Image 2026年5月6日 22_46_50" src="https://github.com/user-attachments/assets/ada4dbcd-fd53-46c1-a88c-519e01e905c6" />
 
 
 ---
