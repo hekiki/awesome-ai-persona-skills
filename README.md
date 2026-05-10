@@ -127,18 +127,12 @@ awesome-ai-persona-skills/
 ---
 ### 📚 核心六：独家自研 · EQ情商和社会化训练
 
-#### 🤔EQ训练🤔
-[EQ.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/eq-skill/SKILL.md)<br>
-[EQ训练指导文件](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/eq-skill/EQ%E6%83%85%E5%95%86%E8%AE%AD%E7%BB%83%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97.md)<br>
+| skill　 | skill　 |  指导文件 |图片 |
+|-----------|-----------|------|------|
+|🤔EQ训练🤔|[EQ.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/eq-skill/SKILL.md)|[EQ训练指导文件](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/eq-skill/EQ%E6%83%85%E5%95%86%E8%AE%AD%E7%BB%83%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97.md)|<img width="520" height="608" alt="20260510-214834" src="https://github.com/user-attachments/assets/2f7c2de1-931e-481f-a59f-09d773bc9c0e" />|
+|💡社会化训练💡|[社会化训练.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/sel-social-emotional-learning-skill/SKILL.md)|[EQ训练指导文件](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/eq-skill/EQ%E6%83%85%E5%95%86%E8%AE%AD%E7%BB%83%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97.md)|<img width="520" height="608" alt="20260510-214834" src="https://github.com/user-attachments/assets/2f7c2de1-931e-481f-a59f-09d773bc9c0e" />|
 
-<img width="520" height="608" alt="20260510-214834" src="https://github.com/user-attachments/assets/2f7c2de1-931e-481f-a59f-09d773bc9c0e" />
 
-
-#### 💡社会化训练💡
-[社会化训练.skill](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/sel-social-emotional-learning-skill/SKILL.md)<br>
-[社会化训练训练指导文件](https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/EQ/sel-social-emotional-learning-skill/SEL%E7%A4%BE%E4%BC%9A%E5%8C%96%E8%AE%AD%E7%BB%83%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97.md)<br>
-
-<img width="1038" height="802" alt="20260510-214843" src="https://github.com/user-attachments/assets/024d603d-c155-4d93-94a9-d27edb13add7" />
 
 
 ---
