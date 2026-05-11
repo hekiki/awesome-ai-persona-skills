@@ -177,6 +177,11 @@ awesome-ai-persona-skills/
 MIT License - 自由使用，二次创作请保留仓库出处。
 
 ---
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=momozi1996/awesome-ai-persona-skills&type=Date)](https://star-history.com/#momozi1996/awesome-ai-persona-skills&Date)
+
+---
 
 
 # 效果示例
