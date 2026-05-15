@@ -25,6 +25,8 @@
  3、 【本人独创】顶级作家 . skill <br>
  4、 【本人独创】自媒体大V . skill <br>
  5、 【本人独创】多agent智囊团-天涯20大神 . skill <br>
+ 6、 【本人独创】著名导演多agent系统--DirectorAgents 和skill <br>
+ 7、 【本人独创】 EQ情商和社会化训练.skill 和book <br>
 </p>
 
 <p align="center">
@@ -32,7 +34,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/persona-skills.md">人格skill库</a> ·<a href="https://github.com/momozi1996/yongledadian-skill">永乐大典skill</a> ·<a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/readme.md ">作家skill库</a> · <a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/README.md">自媒体大V的skill库</a> · <a href="# 关于作者">关于作者</a> · <a href="https://github.com/momozi1996/tianya-skills">天涯20大神的多智能体库
+<a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/persona-skills.md">人格skill库</a> ·<a href="https://github.com/momozi1996/yongledadian-skill">永乐大典skill</a> ·<a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/readme.md ">作家skill库</a> · <a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/README.md">自媒体大V的skill库</a> · <a href="# 关于作者">关于作者</a> · <a href="https://github.com/momozi1996/tianya-skills">天涯20大神的多智能体库· <a href="https://github.com/momozi1996/DirectorAgents">著名导演的多智能体系统【DirectorAgents】及skill清单
 </p>
 
 ---
@@ -125,7 +127,24 @@ awesome-ai-persona-skills/
 <img width="1448" height="1086" alt="ChatGPT Image 2026年5月6日 22_46_50" src="https://github.com/user-attachments/assets/ada4dbcd-fd53-46c1-a88c-519e01e905c6" />
 
 ---
-### 📚 核心六：独家自研 · EQ情商和社会化训练
+### 📚 核心六：独家自研 · 著名导演多agent系统--DirectorAgents
+
+[著名导演多agent系统]([https://github.com/momozi1996/tianya-skills](https://github.com/momozi1996/DirectorAgents))
+
+✨ DirectorAgents导演智囊团
+是一个基于多智能体（Multi-Agent）框架的创意协作系统，整合了31位世界著名导演的风格思想、视觉语言和叙事手法。通过顺序链、辩论投票、主席团三种协作模式，为剧本创作、影像设计和叙事决策提供大师级的创意支持。
+
+✨ 核心特性
+🎭 31位世界级导演：涵盖华语、好莱坞、欧洲、日韩等多元风格
+🤖 三种协作模式：顺序链、辩论投票、主席团/专家混合
+📝 剧本创作支持：从概念到执行的全流程创意辅助
+🎨 影像风格设计：色彩、光影、构图、镜头运动的专业建议
+🎬 叙事结构优化：时间线、视角、节奏的专业指导
+🌍 跨文化融合：东西方美学碰撞，创造独特视角
+
+
+---
+### 📚 核心七：独家自研 · EQ情商和社会化训练
 
 | skill　 | skill　 |  指导文件 |图片 |
 |-----------|-----------|------|------|
