@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/persona-skills.md">人格skill库</a> ·<a href="https://github.com/momozi1996/yongledadian-skill">永乐大典skill</a> ·<a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/readme.md ">作家skill库</a> · <a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/README.md">自媒体大V的skill库</a> · <a href="# 关于作者">关于作者</a> · <a href="https://github.com/momozi1996/tianya-skills">天涯20大神的多智能体库· <a href="https://github.com/momozi1996/DirectorAgents">著名导演的多智能体系统【DirectorAgents】及skill清单
+<a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/persona-skills.md">人格skill库</a> ·<a href="https://github.com/momozi1996/yongledadian-skill">永乐大典skill</a> ·<a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/Novelists/readme.md ">作家skill库</a> · <a href="https://github.com/momozi1996/awesome-ai-persona-skills/blob/main/zimeiti/README.md">自媒体大V的skill库</a> · <a href="# 关于作者">关于作者</a> · <a href="https://github.com/momozi1996/tianya-skills">天涯20大神的多智能体库·</a> · <a href="https://github.com/momozi1996/DirectorAgents">著名导演的多智能体系统【DirectorAgents】及skill清单
 </p>
 
 ---
